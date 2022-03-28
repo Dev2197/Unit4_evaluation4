@@ -1,0 +1,26 @@
+{
+  "name": "unit4_evaluation4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev2197/Unit4_evaluation4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev2197/Unit4_evaluation4/issues"
+  },
+  "homepage": "https://github.com/Dev2197/Unit4_evaluation4#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  }
+}
